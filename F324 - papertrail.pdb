@@ -1,0 +1,117 @@
+COMPND    XYZ file
+COMPND   1Created by VESTA
+HETATM    1 S1                   6.128   7.622   9.304  1.00  0.00           S
+HETATM    2 S2                   8.312   4.666  11.000  1.00  0.00           S
+HETATM    3 S3                   6.581   7.686  13.352  1.00  0.00           S
+HETATM    4 S4                  11.343  11.262  10.368  1.00  0.00           S
+HETATM    5 S5                   9.804  10.063  14.305  1.00  0.00           S
+HETATM    6 S6                  13.219   8.286  12.465  1.00  0.00           S
+HETATM    7 S7                   9.391   5.976   7.426  1.00  0.00           S
+HETATM    8 S8                   9.741   8.014  10.976  1.00  0.00           S
+HETATM    9 S9                  12.086   4.930  10.832  1.00  0.00           S
+HETATM   10 S10                  5.874   4.376   7.620  1.00  0.00           S
+HETATM   11 S11                  6.366   7.817   5.052  1.00  0.00           S
+HETATM   12 S12                  7.117  10.897  11.283  1.00  0.00           S
+HETATM   13 S13                 10.421   6.220  14.166  1.00  0.00           S
+HETATM   14 S14                  5.571  11.430   7.743  1.00  0.00           S
+HETATM   15 S15                  9.080  13.798   8.333  1.00  0.00           S
+HETATM   16 S16                 12.417   8.006   7.583  1.00  0.00           S
+HETATM   17 S17                  9.003   9.925   7.655  1.00  0.00           S
+HETATM   18 S18                 10.341   8.394   4.126  1.00  0.00           S
+HETATM   19 S19                  8.362  12.066   4.653  1.00  0.00           S
+HETATM   20 S20                 11.933  12.034   6.073  1.00  0.00           S
+HETATM   21 Cd1                  8.692   6.461  12.690  1.00  0.00          Cd
+HETATM   22 Cd2                 10.288   4.354   9.182  1.00  0.00          Cd
+HETATM   23 Cd3                  7.405   5.438   5.953  1.00  0.00          Cd
+HETATM   24 Cd4                  7.438   9.058  15.275  1.00  0.00          Cd
+HETATM   25 Cd5                 12.043   7.346  10.204  1.00  0.00          Cd
+HETATM   26 Cd6                  8.541   7.969   8.770  1.00  0.00          Cd
+HETATM   27 Cd7                  9.518  10.362  11.842  1.00  0.00          Cd
+HETATM   28 Cd8                 11.449   6.443   5.958  1.00  0.00          Cd
+HETATM   29 Cd9                 11.671   8.397  14.451  1.00  0.00          Cd
+HETATM   30 Cd10                11.915   4.362  13.313  1.00  0.00          Cd
+HETATM   31 Cd11                 5.413   8.769  11.115  1.00  0.00          Cd
+HETATM   32 Cd12                 5.041   8.960   7.173  1.00  0.00          Cd
+HETATM   33 Cd13                 7.629  11.738   8.724  1.00  0.00          Cd
+HETATM   34 Cd14                 6.077   5.167   9.942  1.00  0.00          Cd
+HETATM   35 Cd15                11.461  10.287   7.814  1.00  0.00          Cd
+HETATM   36 Cd16                 3.423   4.815   7.149  1.00  0.00          Cd
+HETATM   37 Cd17                 6.195  12.891  13.324  1.00  0.00          Cd
+HETATM   38 Cd18                 8.448   9.576   5.210  1.00  0.00          Cd
+HETATM   39 Cd19                14.557   4.303  10.604  1.00  0.00          Cd
+HETATM   40 Cd20                13.729  11.228  12.180  1.00  0.00          Cd
+HETATM   41 Cd21                 4.676   8.425   3.198  1.00  0.00          Cd
+HETATM   42 Cd22                10.197   5.989  16.686  1.00  0.00          Cd
+HETATM   43 Cd23                 4.698   6.779  14.766  1.00  0.00          Cd
+HETATM   44 Cd24                10.153  12.048  15.964  1.00  0.00          Cd
+HETATM   45 Cd25                 7.745   2.652  12.538  1.00  0.00          Cd
+HETATM   46 Cd26                15.117   7.738  13.647  1.00  0.00          Cd
+HETATM   47 Cd27                 6.667   2.219   7.935  1.00  0.00          Cd
+HETATM   48 Cd28                 5.858  12.854   5.429  1.00  0.00          Cd
+HETATM   49 Cd29                10.780  14.178  10.771  1.00  0.00          Cd
+HETATM   50 Cd30                 9.922  13.580   5.898  1.00  0.00          Cd
+HETATM   51 Cd31                14.854   8.381   7.720  1.00  0.00          Cd
+HETATM   52 Cd32                 3.917  12.820   9.036  1.00  0.00          Cd
+HETATM   53 Cd33                 9.741   7.758   1.854  1.00  0.00          Cd
+HETATM   54 Cd34                 8.099  12.665   2.258  1.00  0.00          Cd
+HETATM   55 Cd35                14.087  13.867   7.065  1.00  0.00          Cd
+HETATM   56 Cd36                 7.719  16.321   9.213  1.00  0.00          Cd
+HETATM   57 Cd37                12.264  10.336   4.163  1.00  0.00          Cd
+CONECT    1   31   26   34   32
+CONECT    2   21   34   45   22
+CONECT    3   24   43   21   31
+CONECT    4   27   35   40   49
+CONECT    5   27   29   44   24
+CONECT    6   46   29   25   40
+CONECT    7   23   26   22   28
+CONECT    8   26   27   25   21
+CONECT    9   25   22   30   39
+CONECT   10   47   34   23   36
+CONECT   11   41   38   23   32
+CONECT   12   27   31   33   37
+CONECT   13   21   29   30   42
+CONECT   14   33   52   32   48
+CONECT   15   33   50   49   56
+CONECT   16   28   51   35   25
+CONECT   17   26   35   33   38
+CONECT   18   53   38   57   28
+CONECT   19   54   50   38   48
+CONECT   20   35   50   57   55
+CONECT   21   13    2    3    8
+CONECT   22    9    7    2
+CONECT   23   10    7   11
+CONECT   24    3    5
+CONECT   25    9    8    6   16
+CONECT   26   17    1    8    7
+CONECT   27    5    8    4   12
+CONECT   28   16    7   18
+CONECT   29    5    6   13
+CONECT   30   13    9
+CONECT   31    1   12    3
+CONECT   32   14    1   11
+CONECT   33   14   17   15   12
+CONECT   34   10    2    1
+CONECT   35   16   17   20    4
+CONECT   36   10
+CONECT   37   12
+CONECT   38   18   17   19   11
+CONECT   39    9
+CONECT   40    4    6
+CONECT   41   11
+CONECT   42   13
+CONECT   43    3
+CONECT   44    5
+CONECT   45    2
+CONECT   46    6
+CONECT   47   10
+CONECT   48   14   19
+CONECT   49   15    4
+CONECT   50   19   20   15
+CONECT   51   16
+CONECT   52   14
+CONECT   53   18
+CONECT   54   19
+CONECT   55   20
+CONECT   56   15
+CONECT   57   20   18
+END
