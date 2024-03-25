@@ -93,17 +93,16 @@ def r_space_generation(xyz,length):
     return r_final
 
 
-def factor(atom,length):
-    a = openpyxl.load_workbook(r"form_factor.xlsx")
-    b = openpyxl.load_workbook(r"python_Final.xlsx")
-    sheet_a_1 = a['Sheet1']             # sheet_a_1 will match the element type
-    sheet_b_1 = b['Sheet1']             # sheet_b_1 is the factors of the element
+def factor(atom,length):    
+    sheet_a_1 = pd.read_csv(r"form_factor.csv")
+    sheet_b_1 = pd.read_csv(r"python_Final.csv")
+
     FF = np.zeros((length,1501))
     for i in range (0,length):
-        for m in range (1,211):
-            if [atom[i]]== sheet_a_1.cell(m+1,1).value.split():
+        for m in range (0,210):
+            if [atom[i]] == sheet_a_1.iloc[m,0].split():
                 for zxc in range (0,1501):
-                    FF[i][zxc] = sheet_b_1.cell(zxc+2,m+1).value
+                    FF[i][zxc] = sheet_b_1.iloc[zxc,m+1]
     return FF
 
 
